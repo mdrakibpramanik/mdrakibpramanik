@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Rakib!</h1>
 
-<div class="text-red"><h3 align="center">A dedicated web developer with experience in HTML 5, CSS 3, Tailwind CSS, and<br> Java Script (JS). I love working with and investigating cutting-edge initiatives in the field<br> of open-source technologies.</h3></div>
+<div class="text-red">A dedicated web developer with experience in HTML 5, CSS 3, Tailwind CSS, and<br> Java Script (JS). I love working with and investigating cutting-edge initiatives in the field<br> of open-source technologies.</div>
 
-Here are some ideas to get you started:
+Here are some ideas to get you started:<h3 align="center">
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
