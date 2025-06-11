@@ -1,6 +1,6 @@
 # Hi 👋, I'm Rakib!
 
-<p>A dedicated web developer with experience in HTML 5, CSS 3, Tailwind CSS, and<br> Java Script (JS). I love working with and investigating cutting-edge initiatives in the field<br> of open-source technologies.</p>
+<h3>A dedicated web developer with experience in HTML 5, CSS 3, Tailwind CSS, and<br> Java Script (JS). I love working with and investigating cutting-edge initiatives in the field<br> of open-source technologies.</h3>
 
 Here are some ideas to get you started:
 
