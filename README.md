@@ -1,6 +1,6 @@
-# Hi there 👋
+# Hi 👋, I'm Rakib!
 
-**mdrakibpramanik/mdrakibpramanik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>A dedicated web developer with experience in HTML 5, CSS 3, Tailwind CSS, and<br> Java Script (JS). I love working with and investigating cutting-edge initiatives in the field<br> of open-source technologies.</p>
 
 Here are some ideas to get you started:
 
