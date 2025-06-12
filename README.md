@@ -25,4 +25,4 @@ I’m a Web developer passionate about making error-free websites with 100% clie
     ✅ PHOTOSHOP / ILLUSTRATOR <br>
 </h4>
 
-![Logo](./1st.svg)
+<img src="1st.svg" alt="svg" width="200" />
