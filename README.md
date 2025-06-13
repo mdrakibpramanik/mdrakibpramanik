@@ -49,10 +49,10 @@ I’m a Web developer passionate about making error-free websites with 100% clie
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f331/512.gif" alt="🌱" width="34" height="34">
  </picture><strong>Currently Exploring Different Technological Domains.</strong>
 </h3>
-<h1 color="rgb(80, 11, 218)" ><img src="https://tinyurl.com/288bbztv" height="30" > 🤔💭 Ask Me About ⬇️ </h1> <h3 color="rgb(80,125,42)"> <strong><em> HTML 5 | CSS 3 | BOOTSTRAP | JAVA_SCRIPT | REACT | FIREBASE | NODE_JS | EXPRESS_JS | MONGO_DB | GIT | PHOTO_SHOP | ADOBE_ILLUSTRATOR | MS_WORD | MS_XL ETC...</em></strong> </h3>
+<h2 color="rgb(80, 11, 218)" ><img src="https://tinyurl.com/288bbztv" height="30" > 🤔💭 Ask Me About ⬇️ </h2> <h3 color="rgb(80,125,42)"> <strong><em> HTML 5 | CSS 3 | BOOTSTRAP | JAVA_SCRIPT | REACT | FIREBASE | NODE_JS | EXPRESS_JS | MONGO_DB | GIT | PHOTO_SHOP | ADOBE_ILLUSTRATOR | MS_WORD | MS_XL ETC...</em></strong> </h3>
 
 <!-- Contact me gifs and text -->
-<h1 color="rgb(0,206,209)" > <img src="https://tinyurl.com/22k837wc" alt="✅" width="25" > Mail or Message Me Now <img src="https://tinyurl.com/23tagvde" alt="down arrow gif"   height="25" > </h1>
+<h2 color="rgb(0,206,209)" > <img src="https://tinyurl.com/22k837wc" alt="✅" width="25" > Mail or Message Me Now <img src="https://tinyurl.com/23tagvde" alt="down arrow gif"   height="25" > </h2>
 <table>
   <tr>
 <td> <a href="mailto:mrprakibulislam03@gmail.com"> <img src="https://tinyurl.com/26ebg9mq"   height="45" width="45"  alt="mail" > </a> <br/> Gmail </td>
@@ -62,7 +62,23 @@ I’m a Web developer passionate about making error-free websites with 100% clie
 </table>
 
 <!-- connect me animated logo  with connect with me text   -->
-<h1 align="left" color="rgb(139,0,139)">
+<h2 align="left" color="rgb(139,0,139)">
   <img src="https://tinyurl.com/2596942h" height=34 align="center" >
   <strong> Connect with me  👇</strong>
-</h1>
+</h2>
+
+
+
+
+
+
+
+
+<!-- Languages and tools -->
+<h2 align="left" color="rgb(242,0,60)">
+  <picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" alt="🚀" width="32" height="32">
+</picture>
+ <strong> Languages and Tools ⏬ </strong>
+</h2>
