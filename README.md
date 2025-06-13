@@ -36,11 +36,11 @@ I’m a Web developer passionate about making error-free websites with 100% clie
 ](https://github.com/mdrakibpramanik/mdrakibpramanik/blob/main/Screenshot%202025-06-12%20102232.png?raw=true)
 <br>
 
-<h4>
+<h3>
     <li class="font-semibold">👑 I am Web Developer.</li>
     <li class="font-semibold">🖊️ Love to write code.</li>
     <li class="font-semibold">🎤 Like to share my knowledge.</li>
-</h4><br>
+</h3><br>
 
 <img   align="right" src="https://tinyurl.com/28llma7r" alt="programming boy gif"  height="250px" width="400px" >
 <h3 color="#16ff13 ">
@@ -49,10 +49,10 @@ I’m a Web developer passionate about making error-free websites with 100% clie
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f331/512.gif" alt="🌱" width="34" height="34">
  </picture><strong>Currently Exploring Different Technological Domains.</strong>
 </h3>
-<h2 color="rgb(80, 11, 218)" ><img src="https://tinyurl.com/288bbztv" height="30" > 🤔💭 Ask Me About ⬇️ </h2> <h3 color="rgb(80,125,42)"> <strong><em> HTML 5 | CSS 3 | BOOTSTRAP | JAVA_SCRIPT | REACT | FIREBASE | NODE_JS | EXPRESS_JS | MONGO_DB | GIT | PHOTO_SHOP | ADOBE_ILLUSTRATOR | MS_WORD | MS_XL ETC...</em></strong> </h3>
+<h1 color="rgb(80, 11, 218)" ><img src="https://tinyurl.com/288bbztv" height="30" > 🤔💭 Ask Me About ⬇️ </h1> <h3 color="rgb(80,125,42)"> <strong><em> HTML 5 | CSS 3 | BOOTSTRAP | JAVA_SCRIPT | REACT | FIREBASE | NODE_JS | EXPRESS_JS | MONGO_DB | GIT | PHOTO_SHOP | ADOBE_ILLUSTRATOR | MS_WORD | MS_XL ETC...</em></strong> </h3>
 
 <!-- Contact me gifs and text -->
-<h2 color="rgb(0,206,209)" > <img src="https://tinyurl.com/22k837wc" alt="✅" width="30" > Mail or Message Me Now <img src="https://tinyurl.com/23tagvde" alt="down arrow gif"   height="30" > </h2>
+<h1 color="rgb(0,206,209)" > <img src="https://tinyurl.com/22k837wc" alt="✅" width="25" > Mail or Message Me Now <img src="https://tinyurl.com/23tagvde" alt="down arrow gif"   height="25" > </h1>
 <table>
   <tr>
 <td> <a href="mailto:mrprakibulislam03@gmail.com"> <img src="https://tinyurl.com/26ebg9mq"   height="45" width="45"  alt="mail" > </a> <br/> Gmail </td>
