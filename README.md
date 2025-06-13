@@ -42,13 +42,14 @@ I’m a Web developer passionate about making error-free websites with 100% clie
     <li class="font-semibold">🎤 Like to share my knowledge</li>
 </h4><br>
 
-<h2> 👨‍💻 Skills & Experiance: <br>
-<h4>
-    ✅ HTML 5 / CSS 3 / TAILWIND CSS <br> 
-    ✅ JAVA SCRIPT / REACT / FIREBASE <br>
-    ✅ NODE JS / EXPRESS JS / MONGO DB <br>
-    ✅ MICROSOFT WORD / MICROSOFT EXCEL <br>
-    ✅ PHOTOSHOP / ILLUSTRATOR <br>
-</h4>
+<img   align="right" src="https://tinyurl.com/28llma7r" alt="programming boy gif"  height="250px" width="400px" >
+<h3 color="#16ff13 ">
+ <picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f331/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f331/512.gif" alt="🌱" width="34" height="34">
+ </picture><strong>Currently Exploring Different Technological Domains.</strong>
+</h3>
+<h2 color="rgb(80, 11, 218)" ><img src="https://tinyurl.com/288bbztv" height="30" > 🤔💭 Ask Me About ⬇️ </h2> <h3 color="rgb(80,125,42)"> <strong><em> HTML 5 | CSS 3 | BOOTSTRAP | JAVA_SCRIPT | REACT | FIREBASE | NODE_JS | EXPRESS_JS | MONGO_DB | GIT | PHOTO_SHOP | ADOBE_ILLUSTRATOR | MS_WORD | MS_XL ETC...</em></strong> </h3>
 
-<img src="1st.svg" alt="svg" width="200" />
+
+
