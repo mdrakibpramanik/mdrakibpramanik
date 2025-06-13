@@ -9,7 +9,7 @@
     <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.webp" type="image/webp">
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="50" height="50">
 </picture>
-  , I'm Rakib Pramanik</h1>
+  , I'm Rakib Pramanik.</h1>
 
 <!-- Dynamic gerrting for profile viewers  -->
 <h1 align="center">
@@ -22,7 +22,7 @@
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f339/512.gif" alt="🌹" width="32" height="32">
 </picture> 
 <strong>  
-Love ❤️ to work with multiple programming languages .
+Love ❤️ to work with multiple programming languages.
 </strong>
 </h1>
 
@@ -37,9 +37,9 @@ I’m a Web developer passionate about making error-free websites with 100% clie
 <br>
 
 <h4>
-    <li class="font-semibold">👑 I am Web Developer</li>
-    <li class="font-semibold">🖊️ Love to write code</li>
-    <li class="font-semibold">🎤 Like to share my knowledge</li>
+    <li class="font-semibold">👑 I am Web Developer.</li>
+    <li class="font-semibold">🖊️ Love to write code.</li>
+    <li class="font-semibold">🎤 Like to share my knowledge.</li>
 </h4><br>
 
 <img   align="right" src="https://tinyurl.com/28llma7r" alt="programming boy gif"  height="250px" width="400px" >
@@ -50,6 +50,3 @@ I’m a Web developer passionate about making error-free websites with 100% clie
  </picture><strong>Currently Exploring Different Technological Domains.</strong>
 </h3>
 <h2 color="rgb(80, 11, 218)" ><img src="https://tinyurl.com/288bbztv" height="30" > 🤔💭 Ask Me About ⬇️ </h2> <h3 color="rgb(80,125,42)"> <strong><em> HTML 5 | CSS 3 | BOOTSTRAP | JAVA_SCRIPT | REACT | FIREBASE | NODE_JS | EXPRESS_JS | MONGO_DB | GIT | PHOTO_SHOP | ADOBE_ILLUSTRATOR | MS_WORD | MS_XL ETC...</em></strong> </h3>
-
-
-
