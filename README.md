@@ -60,3 +60,9 @@ I’m a Web developer passionate about making error-free websites with 100% clie
 <td><a href="https://wa.me/01703312017?text=Hi%2C%20I%20am%20Rakib%2C%20just%20drop%20a%20message."><img src="https://tinyurl.com/2axx8cdh" height="45" width="45" alt="WhatsApp"></a> <br/> W-App </td>
   </tr>
 </table>
+
+<!-- connect me animated logo  with connect with me text   -->
+<h1 align="left" color="rgb(139,0,139)">
+  <img src="https://tinyurl.com/2596942h" height=34 align="center" >
+  <strong> Connect with me  👇</strong>
+</h1>
