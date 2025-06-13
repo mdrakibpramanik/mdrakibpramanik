@@ -50,3 +50,13 @@ I’m a Web developer passionate about making error-free websites with 100% clie
  </picture><strong>Currently Exploring Different Technological Domains.</strong>
 </h3>
 <h2 color="rgb(80, 11, 218)" ><img src="https://tinyurl.com/288bbztv" height="30" > 🤔💭 Ask Me About ⬇️ </h2> <h3 color="rgb(80,125,42)"> <strong><em> HTML 5 | CSS 3 | BOOTSTRAP | JAVA_SCRIPT | REACT | FIREBASE | NODE_JS | EXPRESS_JS | MONGO_DB | GIT | PHOTO_SHOP | ADOBE_ILLUSTRATOR | MS_WORD | MS_XL ETC...</em></strong> </h3>
+
+<!-- Contact me gifs and text -->
+<h2 color="rgb(0,206,209)" > <img src="https://tinyurl.com/22k837wc" alt="✅" width="30" > Mail or Message Me Now <img src="https://tinyurl.com/23tagvde" alt="down arrow gif"   height="30" > </h2>
+<table>
+  <tr>
+<td> <a href="mailto:mrprakibulislam03@gmail.com"> <img src="https://tinyurl.com/26ebg9mq"   height="45" width="45"  alt="mail" > </a> <br/> Gmail </td>
+<td><a href="https://t.me/RakibPramanik03"> <img src="https://tinyurl.com/236jh9nf"   height="45" width="45"  alt="Telegram" ></a> <br/> T-gram </td>
+<td><a href="https://wa.me/01703312017?text=Hi%2C%20I%20am%20Rakib%2C%20just%20drop%20a%20message."><img src="https://tinyurl.com/2axx8cdh" height="45" width="45" alt="WhatsApp"></a> <br/> W-App </td>
+  </tr>
+</table>
