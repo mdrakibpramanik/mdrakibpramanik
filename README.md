@@ -13,11 +13,10 @@
 
 <!-- Dynamic gerrting for profile viewers  -->
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=1000&height=90&duration=4500&lines=Hi+There!+👋;+I'm+Rakib Pramanik!😊;🅰️+I'm+Developer++🤖+AI+Enthusiast+|+🅿️roblem+Solver;+Love+❤️+to+work+with+multiple+programming+languages;+🎉Let's+contribute+together;+👨‍💻Happy+coding;🌞Have+a+nice+day👍;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=1000&height=90&duration=4500&lines=Hi+There!+👋;+I'm+Rakib!😊;🅰️+I'm+Developer+|+🤖+AI+Enthusiast+|+🅿️roblem+Solver;+Love+❤️+to+work+with+multiple+programming+languages;+🎉Let's+contribute+together;+👨‍💻Happy+coding;🌞Have+a+nice+day👍;" />
 </h1>
 
-
-<h2 align="center" color="blue">
+<h1 align="center" color="blue">
  <picture>
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f339/512.webp" type="image/webp">
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f339/512.gif" alt="🌹" width="32" height="32">
@@ -25,7 +24,7 @@
 <strong>  
 Love ❤️ to work with multiple programming languages .
 </strong>
-</h2>
+</h1>
 
 <h3 align="center">A dedicated web developer with experience in Html 5, CSS 3, Tailwind CSS, and<br> Java Script (JS). I love working with and investigating cutting-edge initiatives in the field<br> of open-source technologies.</h3>
 
