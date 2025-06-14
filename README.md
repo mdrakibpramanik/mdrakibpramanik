@@ -49,6 +49,7 @@ I’m a Web developer passionate about making error-free websites with 100% clie
  </picture><strong>Currently Exploring Different Technological Domains.</strong>
 </h3>
 <h2 color="rgb(80, 11, 218)" ><img src="https://tinyurl.com/288bbztv" height="30" > 🤔💭 Ask Me About ⬇️ </h2> <h3 color="rgb(80,125,42)"> <strong><em> HTML 5 | CSS 3 | BOOTSTRAP | JAVA_SCRIPT | REACT | FIREBASE | NODE_JS | EXPRESS_JS | MONGO_DB | GIT | PHOTO_SHOP | ADOBE_ILLUSTRATOR | MS_WORD | MS_XL ETC...</em></strong> </h3>
+<hr>
 
 <!-- Contact me gifs and text -->
 <h2 color="rgb(0,206,209)" > <img src="https://tinyurl.com/22k837wc" alt="✅" width="25" > Mail or Message Me Now <img src="https://tinyurl.com/23tagvde" alt="down arrow gif"   height="25" > </h2>
@@ -126,7 +127,7 @@ I’m a Web developer passionate about making error-free websites with 100% clie
 <!-- Greeting profile viewers with numbers  -->
 <p align="center">
   <a align="center" href="">
-  <img align="center" src="https://komarev.com/ghpvc/?username=&label=Thanks+for+visiting"  width=360 height=45 />
+  <img align="center" src="https://komarev.com/ghpvc/?username=mdrakibpramanik&label=Thanks+for+visiting+100"  width=360 height=45 />
 </a>
 </p>
 
