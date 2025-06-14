@@ -106,6 +106,18 @@ I’m a Web developer passionate about making error-free websites with 100% clie
     <td><a href="https://commons.wikimedia.org/wiki/File:Microsoft_Office_Excel_(2019%E2%80%93present).svg" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" height="60" width="50" alt="MS-XL"> </a></td>
     <td><a href="https://code.visualstudio.com/brand" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" height="60" width="50" alt="VS CODE"> </a></td>
   </tr>
-</table>   
+</table> 
 
-
+<!-- My contributions with snake game format -->
+<div align="left">
+  <h2 color=" rgb(127,255,0)">🐍 My Contribution Snack! 🍭</h2>
+  
+  <a href="https://raw.githubusercontent.com/mdrakibpramanik/mdrakibpramanik/output/github-contribution-grid-snake-dark.svg" target="_blank">
+    <img 
+        alt="github contribution grid snake animation" 
+        width="1200" 
+        src="https://raw.githubusercontent.com/mdrakibpramanik/mdrakibpramanik/output/github-contribution-grid-snake-dark.svg" 
+        id="gh-dark-mode-only" 
+     />
+  </a>
+</div>
