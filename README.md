@@ -104,7 +104,7 @@ I’m a Web developer passionate about making error-free websites with 100% clie
     <td><a href="https://www.adobe.com/products/illustrator.html" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg" height="60" width="50" alt="AI"> </a></td>
     <td><a href="https://commons.wikimedia.org/wiki/File:Microsoft_Office_Word_(2019%E2%80%93present).svg" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/f/fd/Microsoft_Office_Word_%282019%E2%80%93present%29.svg" height="60" width="50" alt="MS-WORD"> </a></td>
     <td><a href="https://commons.wikimedia.org/wiki/File:Microsoft_Office_Excel_(2019%E2%80%93present).svg" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" height="60" width="50" alt="MS-XL"> </a></td>
-    <td><a href="https://code.visualstudio.com/brand" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" height="60" width="50" alt="VS CODE"> </a></td>
+    <td><a href="https://code.visualstudio.com/brand" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg"  height="60" width="50" alt="VS CODE"> </a></td>
   </tr>
 </table> 
 
