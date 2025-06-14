@@ -116,7 +116,7 @@ I’m a Web developer passionate about making error-free websites with 100% clie
     <img 
         alt="github contribution grid snake animation" 
         width="1200" 
-        src="https://raw.githubusercontent.com/mdrakibpramanik/mdrakibpramanik/output/github-contribution-grid-snake-dark.svg" 
+        src="https://raw.githubusercontent.com/aniruddhaadak80/aniruddhaadak80/output/github-contribution-grid-snake-dark.svg" 
         id="gh-dark-mode-only" 
      />
   </a>
