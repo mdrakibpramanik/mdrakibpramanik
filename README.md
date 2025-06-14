@@ -86,13 +86,24 @@ I’m a Web developer passionate about making error-free websites with 100% clie
 <!-- My Tech Profiles -->
 <table>
   <tr>
-    <td><a href="" target="_blank"> <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/html5-original-wordmark.svg" alt="HTML" height="60"/> </a></td>
-    <td><a href="" target="_blank"> <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/css3-original-wordmark.svg" alt="CSS" height="60"/> </a></td>
-    <td><a href="" target="_blank"> <img src="https://commons.wikimedia.org/wiki/File:Tailwind_CSS_Logo.svg" alt="TAILWIND CSS" height="60"/> </a></td>
-    <td><a href="" target="_blank"> <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/bootstrap-plain-wordmark.svg" alt="BOOTSTRAP" height="60"/> </a></td>
-    <td><a href="" target="_blank"> <img src="https://www.svgrepo.com/svg/303206/javascript-logo" alt="JS" height="60"/> </a></td>
-    <td><a href="" target="_blank"> <img src="https://www.svgrepo.com/svg/452092/react" alt="REACT" height="60"/> </a></td>
-    <td><a href="" target="_blank"> <img src="https://firebase.google.com/brand-guidelines" alt="FIREBASE" height="60"/> </a></td>
-    <td><a href="" target="_blank"> <img src="https://www.svgrepo.com/svg/303360/nodejs-logo" alt="NODE JS" height="60"/> </a></td>
+    <td><a href="https://www.w3schools.com/html/" target="_blank"> <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/html5-original-wordmark.svg" alt="HTML" height="60" width="50"/> </a></td>
+    <td><a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/css3-original-wordmark.svg" alt="CSS" height="60" width="50"/> </a></td>
+    <td><a href="https://tailwindcss.com/docs/installation/using-vite" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="TAILWIND CSS" height="60" width="50"/> </a></td>
+    <td><a href="https://getbootstrap.com/" target="_blank"> <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/bootstrap-plain-wordmark.svg" alt="BOOTSTRAP" height="60" width="50"/> </a></td>
+    <td><a href="https://www.w3schools.com/js/" target="_blank"> <img src="https://www.svgrepo.com/show/303206/javascript-logo.svg" alt="JS" height="60" width="50"/> </a></td>
+    <td><a href="https://react.dev/" target="_blank"> <img src="https://www.svgrepo.com/show/452092/react.svg" alt="REACT" height="60" width="50"/> </a></td>
+    <td><a href="https://firebase.google.com/brand-guidelines" target="_blank"> <img src="https://firebase.google.com/static/images/brand-guidelines/logo-vertical.png" alt="FIREBASE" height="60" width="50"/> </a></td>
+    <td><a href="https://nodejs.org/en" target="_blank"> <img src="https://www.svgrepo.com/show/303360/nodejs-logo.svg" alt="NODE JS" height="60" width="50"/> </a></td>
   </tr>
-</table>
+
+  <tr>
+    <td><a href="https://expressjs.com/" target="_blank"> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ficons8.com%2Ficons%2Fset%2Fexpress-js&psig=AOvVaw1HdSSmvx7MNVoEwUCZ0_Z2&ust=1749969331866000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPCbxZum8I0DFQAAAAAdAAAAABAE" height="60" width="50" alt="EXPRESS JS"> </a></td>
+    <td><a href="https://www.mongodb.com/" target="_blank"> <img src="https://www.svgrepo.com/show/354090/mongodb.svg" height="60" width="50" alt="MONGO DB"> </a></td>
+    <td><a href="https://git-scm.com/" target="_blank"> <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" height="60" width="50" alt="GIT"> </a></td>
+    <td><a href="https://www.adobe.com/products/photoshop.html" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" height="60" width="50" alt="PHOTOSHOP"> </a></td>
+    <td><a href="https://www.adobe.com/products/illustrator.html" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg" height="60" width="50" alt="AI"> </a></td>
+    <td><a href="https://commons.wikimedia.org/wiki/File:Microsoft_Office_Word_(2019%E2%80%93present).svg" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/f/fd/Microsoft_Office_Word_%282019%E2%80%93present%29.svg" height="60" width="50" alt="MS-WORD"> </a></td>
+    <td><a href="https://commons.wikimedia.org/wiki/File:Microsoft_Office_Excel_(2019%E2%80%93present).svg" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" height="60" width="50" alt="MS-XL"> </a></td>
+    <td><a href="https://code.visualstudio.com/brand" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" height="60" width="50" alt="VS CODE"> </a></td>
+  </tr>
+</table>   
