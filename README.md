@@ -82,3 +82,17 @@ I’m a Web developer passionate about making error-free websites with 100% clie
 </picture>
  <strong> Languages and Tools ⏬ </strong>
 </h2>
+
+<!-- My Tech Profiles -->
+<table>
+  <tr>
+    <td><a href="" target="_blank"> <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/html5-original-wordmark.svg" alt="HTML" height="60"/> </a></td>
+    <td><a href="" target="_blank"> <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/css3-original-wordmark.svg" alt="CSS" height="60"/> </a></td>
+    <td><a href="" target="_blank"> <img src="https://commons.wikimedia.org/wiki/File:Tailwind_CSS_Logo.svg" alt="TAILWIND CSS" height="60"/> </a></td>
+    <td><a href="" target="_blank"> <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/bootstrap-plain-wordmark.svg" alt="BOOTSTRAP" height="60"/> </a></td>
+    <td><a href="" target="_blank"> <img src="https://www.svgrepo.com/svg/303206/javascript-logo" alt="JS" height="60"/> </a></td>
+    <td><a href="" target="_blank"> <img src="https://www.svgrepo.com/svg/452092/react" alt="REACT" height="60"/> </a></td>
+    <td><a href="" target="_blank"> <img src="https://firebase.google.com/brand-guidelines" alt="FIREBASE" height="60"/> </a></td>
+    <td><a href="" target="_blank"> <img src="https://www.svgrepo.com/svg/303360/nodejs-logo" alt="NODE JS" height="60"/> </a></td>
+  </tr>
+</table>
