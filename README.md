@@ -68,10 +68,19 @@ I’m a Web developer passionate about making error-free websites with 100% clie
 </h2>
 
 
-
-
-
-
+<!-- My Online Profiles -->
+<table>
+  <tr>
+    <!-- LinkedIn Profile -->
+    <td><a href="https://www.linkedin.com/in/mdrakibpramanik03/" target="_blank"><img src="https://tinyurl.com/22kdsy5f" alt="LinkedIn" height="50" width="40" /></a></td>
+    <!-- Netlify Profile -->
+    <td><a href="https://app.netlify.com/user/settings" target="_blank"><img src="https://shorturl.at/UadGG" alt="Netlify" height="50" width="40"/></a></td>
+    <!-- Twitter Profile -->
+    <td><a href="https://x.com/MdRakibul43583"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_of_Twitter.svg" alt="Twitter-X" height="50" width="40"/></a></td>
+    <!-- Github Profile -->
+    <td><a href="https://github.com/mdrakibpramanik"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Github" height="50" width="40"/></a></td>
+  </tr>
+</table>
 
 
 <!-- Languages and tools -->
