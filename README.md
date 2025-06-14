@@ -97,7 +97,7 @@ I’m a Web developer passionate about making error-free websites with 100% clie
   </tr>
 
   <tr>
-    <td><a href="https://expressjs.com/" target="_blank"> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ficons8.com%2Ficons%2Fset%2Fexpress-js&psig=AOvVaw1HdSSmvx7MNVoEwUCZ0_Z2&ust=1749969331866000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPCbxZum8I0DFQAAAAAdAAAAABAE" height="60" width="50" alt="EXPRESS JS"> </a></td>
+    <td><a href="https://expressjs.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg" height="60" width="50" alt="EXPRESS JS"> </a></td>
     <td><a href="https://www.mongodb.com/" target="_blank"> <img src="https://www.svgrepo.com/show/354090/mongodb.svg" height="60" width="50" alt="MONGO DB"> </a></td>
     <td><a href="https://git-scm.com/" target="_blank"> <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" height="60" width="50" alt="GIT"> </a></td>
     <td><a href="https://www.adobe.com/products/photoshop.html" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" height="60" width="50" alt="PHOTOSHOP"> </a></td>
