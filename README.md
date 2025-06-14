@@ -107,3 +107,5 @@ I’m a Web developer passionate about making error-free websites with 100% clie
     <td><a href="https://code.visualstudio.com/brand" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" height="60" width="50" alt="VS CODE"> </a></td>
   </tr>
 </table>   
+
+<img align="left" height="220em"  width="400em"   src="https://camo.githubusercontent.com/181e1d2b65a6d84d1a65021e88972dce48605fe68e7838997cddf364ee3279df/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67733f757365726e616d653d616e697275646468616164616b38302673686f775f69636f6e733d74727565267468656d653d73796e746877617665267469746c655f636f6c6f723d66663030303026746578745f636f6c6f723d3030666630302662675f636f6c6f723d303030303030266c6f63616c653d656e266c61796f75743d636f6d70616374" alt="mdrakibpramanik" />
