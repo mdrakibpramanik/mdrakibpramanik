@@ -30,7 +30,8 @@ Love ❤️ to work with multiple programming languages.
 
 <h3 align="center">
 I’m a Web developer passionate about making error-free websites with 100% client <br>satisfaction. I am passionate about learning and sharing my knowledge with others <br>as    publicly as possible. I love to solve real-world problems. <br>I am strategic and goal-oriented, and I always work with an end goal in mind. <br>I pride myself on doing quality work and maintaining excellent communication.
-</h3><br>
+</h3>
+<hr>
 
 <img src="https://github.com/mdrakibpramanik/mdrakibpramanik/blob/main/Screenshot%202025-06-12%20102232.png?raw=true" alt="" width="1000px" height="300px">
 
@@ -119,3 +120,16 @@ I’m a Web developer passionate about making error-free websites with 100% clie
      />
   </a>
 </div>
+
+
+<hr/>
+<!-- Greeting profile viewers with numbers  -->
+<p align="center">
+  <a align="center" href="">
+  <img align="center" src="https://komarev.com/ghpvc/?username=&label=Thanks+for+visiting"  width=360 height=45 />
+</a>
+</p>
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=130&section=footer" width="1000px"/>
+</p>
